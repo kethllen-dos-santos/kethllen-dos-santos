@@ -26,7 +26,7 @@ Busco oportunidades para aplicar meus conhecimentos, desenvolver minhas habilida
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kethllen-dos-santos&layout=compact&theme=dark&title_color=3f82f5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kethllen-dos-santos&layout=compact&title_color=3f82f5)
 
 ---
 
