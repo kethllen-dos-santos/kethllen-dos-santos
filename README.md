@@ -3,7 +3,10 @@
 # Kethllen dos Santos
 **Font-end Developer** 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=3f82f5&width=510&lines=Aqui+vc+acompanha+minha+jornada+como+Dev+Web!" align="center">
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&color=3f82f5&width=510&lines=Aqui+vc+acompanha+minha+jornada+como+Dev+Web!" 
+  style="max-width: 100%; height: auto;">
+
 Estudante de Engenharia de Software, apaixonada por desenvolvimento web e em constante evolução na área da tecnologia. Possuo conhecimentos básicos em Java, HTML, CSS, JavaScript e GitHub, além de estar em formação contínua através do curso "Domine Web" na Udemy, onde estudo tecnologias como PHP, MySQL, Bootstrap, MVC, APIs e muito mais.
 
 Busco oportunidades para aplicar meus conhecimentos, desenvolver minhas habilidades e crescer profissionalmente como desenvolvedora web full stack.
@@ -23,7 +26,7 @@ Busco oportunidades para aplicar meus conhecimentos, desenvolver minhas habilida
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kethllen-dos-santos&layout=compact&title_color=3f82f5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kethllen-dos-santos&layout=compact&theme=dark&title_color=3f82f5)
 
 ---
 
